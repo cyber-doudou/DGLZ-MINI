@@ -1,0 +1,32 @@
+# 微信小游戏
+game.js
+preview-game.js
+test-canvas.html
+
+# 依赖
+node_modules/
+
+# 测试和调试
+backups/
+test-*.js
+test-*.cjs
+diagnose.js
+debug_b_output.txt
+
+# 构建产物
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 游戏源码（如果需要分开）
+# src/
+# utils/

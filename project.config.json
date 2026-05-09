@@ -1,0 +1,52 @@
+{
+  "description": "大怪路子微信小程序",
+  "packOptions": {
+    "ignore": [
+      {
+        "value": "pages",
+        "type": "folder"
+      },
+      {
+        "value": "components",
+        "type": "folder"
+      }
+    ],
+    "include": []
+  },
+  "setting": {
+    "bundle": false,
+    "urlCheck": false,
+    "es6": true,
+    "postcss": true,
+    "minifyWXML": true,
+    "minifyWXSS": true,
+    "minifyJS": true,
+    "autoAudits": false,
+    "nodeModules": false,
+    "compileWorklet": false,
+    "minified": false,
+    "uglifyFileName": false,
+    "uploadWithSourceMap": true,
+    "enhance": false,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "localPlugins": false,
+    "disableUseStrict": false,
+    "useCompilerPlugins": false,
+    "condition": false,
+    "swc": false,
+    "disableSWC": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "compileType": "game",
+  "libVersion": "3.3.5",
+  "appid": "wx7f2e2eb8d1370021",
+  "projectname": "daguailuzi",
+  "simulatorPluginLibVersion": {},
+  "isGameTourist": false,
+  "editorSetting": {}
+}
